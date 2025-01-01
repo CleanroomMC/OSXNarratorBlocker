@@ -14,6 +14,6 @@ repositories {
 }
 
 dependencies {
-    runtimeOnly 'com.cleanroommc:osx-narrator-blocker:1.0'
+    runtimeOnly 'com.cleanroommc:osxnarratorblocker:1.0'
 }
 ```
